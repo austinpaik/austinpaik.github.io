@@ -27,6 +27,8 @@ markdown: kramdown
 theme: jekyll-theme-munky
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
 
 # Munky configuration
 collections:
