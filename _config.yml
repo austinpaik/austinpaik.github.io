@@ -24,7 +24,7 @@ github_username:  austinpaik
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-munky
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
