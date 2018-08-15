@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi there!  My name is Austin Paik, and I am a recent alumni from the University of Southern California.  
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
