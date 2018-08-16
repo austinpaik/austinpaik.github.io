@@ -6,4 +6,4 @@ permalink: /sports/
 
 Sports pictures
 
-![sports1](https://github.com/austinpaik/austinpaik.github.io/blob/master/assets/sports1.jpg)
+![sports1](austinpaik.github.io/assets/sports1.jpg)
