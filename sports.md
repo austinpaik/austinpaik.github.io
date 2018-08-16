@@ -6,6 +6,4 @@ permalink: /sports/
 
 Sports pictures
 
-{% for file in site.static_files %}
-    <img src="{{file.path}}" alt="{file.name}">
-{% endfor %}
+![sports1](https://github.com/austinpaik/austinpaik.github.io/blob/master/assets/sports1.jpg)
