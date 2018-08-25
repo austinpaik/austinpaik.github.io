@@ -21,7 +21,6 @@ baseurl: "austinpaik.github.io" # the subpath of your site, e.g. /blog
 url: "austinpaik.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 instagram_username: paikpics
-twitter_username: austin_paik
 linkedin_username: austinpaik
 
 # Build settings
