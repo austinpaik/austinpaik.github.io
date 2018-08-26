@@ -22,7 +22,6 @@ url: "austinpaik.com" # the base hostname & protocol for your site, e.g. http://
 
 instagram_username: paikpics
 linkedin_username: austinpaik
-youtube_username: austinpaik
 
 # Build settings
 markdown: kramdown
