@@ -1,3 +1,4 @@
+{%- include social.html -%}
 
 ![sports1](/assets/images/sports1.jpg)
 ![portraits1](/assets/images/portraits1.jpg)
